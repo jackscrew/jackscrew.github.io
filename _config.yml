@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Work Diary
+title: Work Diary 2
 email: smsusi@pixmoving.com
 description: >
   A webiste to help me document my work and share it with the world!
